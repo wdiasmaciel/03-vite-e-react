@@ -3,4 +3,5 @@
   height: auto;
   aspect-ratio: 2/1.3;
   object-fit: cover;
+  border-radius: 0.5rem;
 }
